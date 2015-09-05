@@ -39,7 +39,6 @@
         android:layout_toRightOf="@+id/tvName"
         android:layout_toEndOf="@+id/tvName"
         android:hint="@string/name_hint"/>
-        />
 
 
     <TextView
